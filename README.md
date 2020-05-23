@@ -2,18 +2,6 @@
 
 A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Ethereum Blockchain to store and view all medical documents securely
 
-# About the Ethereum Blockchain
-
-<img src="https://miro.medium.com/max/16000/1*AReX8uZOZKpGcvuUjogh0g.png" height="210px" width="360px"/>
-
-<b>Ethereum</b> is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality.
-
-# About InterPlanetary File System(IPFS)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" height="330px" width="360px"/>
-
-The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices
-
 # About the D-App
 
 <b>The E-Voting app has 2 main users:</b>
@@ -34,17 +22,28 @@ The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for
 <li> View a certain patient's uploaded document</li>
 </ol>
 
+# About the Ethereum Blockchain
+
+<img src="https://miro.medium.com/max/16000/1*AReX8uZOZKpGcvuUjogh0g.png" height="210px" width="360px"/>
+
+<b>Ethereum</b> is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality.
+
+# About InterPlanetary File System(IPFS)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" height="330px" width="360px"/>
+
+The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices
+
 # Dependencies
 <ul>
-  <li>Node.js</li>
-  <li>npm</li>
   <li>React.js</li>
   <li>Web3.js</li>
   <li>Ganache-cli</li>
   <li>Truffle</li>
   <li>Solidity</li>
-  <li>MongoDB</li>
   <li>Metamask</li>
+  <li>Flask</li>
+  <li>ipfs</li>
 </ul>
 
 
