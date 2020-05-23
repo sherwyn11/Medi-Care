@@ -11,7 +11,7 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 <b>Patients can:</b>
 <ol>
 <li> Upload a document to the blockchain. The document is added as a node in IPFS which returns a hash. The hash is then stored on the blockchain</li>
-<li> View the uploaded documents</li
+<li> View the uploaded documents</li>
 <li> Analyse the uploaded documents. The text from the document is extracted and <b>NER</b>(Named Entity Recognition) is performed on the text using <b>BERN</b>(Biomedical Named Entity recognition and multi-type Normalization)</li>
 <li> Analyse their reports to find keywords related to <b>Drugs</b> or <b>Diseases</b></li>
 <li> Add a trusted doctor to view their medical documents</li>
