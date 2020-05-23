@@ -19,7 +19,7 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 
 <b>Doctors can:</b>
 <ol>
-<li> Upload a document to the blockchain to a certain patient</li>
+<li> Upload a medical document about a certain patient to the blockchain</li>
 <li> View a certain patient's uploaded document</li>
 </ol>
 
