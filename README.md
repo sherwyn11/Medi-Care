@@ -29,7 +29,7 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 
 <b>Ethereum</b> is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality.
 
-# About InterPlanetary File System(IPFS)
+# About the InterPlanetary File System(IPFS)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" height="330px" width="360px"/>
 
@@ -44,8 +44,8 @@ The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for
   <li>Solidity</li>
   <li>Metamask</li>
   <li>Flask</li>
-  <li>ipfs</li>
-  <li>pytesseract</li>
+  <li>Ipfs</li>
+  <li>Pytesseract</li>
 </ul>
 
 
