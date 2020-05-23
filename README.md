@@ -45,6 +45,7 @@ The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for
   <li>Metamask</li>
   <li>Flask</li>
   <li>ipfs</li>
+  <li>pytesseract</li>
 </ul>
 
 
