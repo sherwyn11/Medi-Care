@@ -73,5 +73,8 @@ python app.py
 
 [MIT License Link](https://github.com/sherwyn11/Medi-Care/blob/master/LICENSE)
 
-<br></br>
+# References
+
+<a href="https://www.devteam.space/blog/how-can-blockchain-keep-medical-records-secure/">How Can Blockchain Keep Medical Records Secure?</a>
+
 © 2020 Sherwyn D'souza
