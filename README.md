@@ -63,7 +63,6 @@ cd server
 python app.py
 ```
 # Working Demonstration
-<br></br>
 
 ![](Readme_requirements/Medi-Care.gif)
 
