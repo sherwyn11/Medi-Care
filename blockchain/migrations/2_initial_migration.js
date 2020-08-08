@@ -1,4 +1,4 @@
-var Patient = artifacts.require("../src/contracts/Patient.sol");
+var Patient = artifacts.require("./Patient.sol");
 
 module.exports = function(deployer) {
   deployer.deploy(Patient);
