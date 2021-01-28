@@ -1,26 +1,26 @@
 # Medi-Care <img src="https://pbs.twimg.com/profile_images/653586573/Logo_wc-2_400x400.png" height="30px" width="30px"/>
 
-A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Ethereum Blockchain to store and view all medical documents securely
+A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Ethereum Blockchain to store and view all medical documents securely.
 
 ## About the D-App
 
 <b>The app has 2 main users:</b>
-1. Patient 
+1. Patient
 2. Doctor
 
 <b>Patients can:</b>
 <ol>
 <li> Upload a document to the blockchain. The document is added as a node in IPFS which returns a hash. The hash is then stored on the blockchain</li>
-<li> View the uploaded documents</li>
-<li> Analyse the uploaded documents. The text from the document is extracted and <b>NER</b>(Named Entity Recognition) is performed on the text using <b>BERN</b>(Biomedical Named Entity recognition and multi-type Normalization)</li>
-<li> Analyse their reports to find keywords related to <b>Drugs</b> or <b>Diseases</b></li>
-<li> Add a trusted doctor to view their medical documents</li>
+<li> View the uploaded documents.</li>
+<li> Analyse the uploaded documents. The text from the document is extracted and <b>NER</b>(Named Entity Recognition) is performed on the text using <b>BERN</b>(Biomedical Named Entity recognition and multi-type Normalization.)</li>
+<li> Analyse their reports to find keywords related to <b>Drugs</b> or <b>Diseases</b>.</li>
+<li> Add a trusted doctor to view their medical documents.</li>
 </ol>
 
 <b>Doctors can:</b>
 <ol>
-<li> Upload a medical document about a certain patient to the blockchain</li>
-<li> View a certain patient's uploaded document</li>
+<li> Upload a medical document about a certain patient to the blockchain.</li>
+<li> View a certain patient's uploaded document.</li>
 </ol>
 
 ## About the Ethereum Blockchain
@@ -33,7 +33,7 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" height="330px" width="360px"/>
 
-The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices
+The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.
 
 ## Dependencies
 <ul>
