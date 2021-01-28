@@ -2,9 +2,9 @@
 
 A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Ethereum Blockchain to store and view all medical documents securely
 
-# About the D-App
+## About the D-App
 
-<b>The Medi-Care app has 2 main users:</b>
+<b>The app has 2 main users:</b>
 1. Patient 
 2. Doctor
 
@@ -23,19 +23,19 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 <li> View a certain patient's uploaded document</li>
 </ol>
 
-# About the Ethereum Blockchain
+## About the Ethereum Blockchain
 
 <img src="https://miro.medium.com/max/16000/1*AReX8uZOZKpGcvuUjogh0g.png" height="210px" width="360px"/>
 
 <b>Ethereum</b> is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality.
 
-# About the InterPlanetary File System(IPFS)
+## About the InterPlanetary File System(IPFS)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" height="330px" width="360px"/>
 
 The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices
 
-# Dependencies
+## Dependencies
 <ul>
   <li>React.js</li>
   <li>Web3.js</li>
@@ -49,7 +49,7 @@ The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for
 </ul>
 
 
-# Getting Started
+## Getting Started
 
 ### To run React development server
 
@@ -63,19 +63,19 @@ npm start
 cd server
 python app.py
 ```
-# Working Demonstration
+## Working Demonstration
 
 ![](Readme_requirements/Medi-Care.gif)
 
-# References
+## References
 
 <a href="https://www.devteam.space/blog/how-can-blockchain-keep-medical-records-secure/">How Can Blockchain Keep Medical Records Secure?</a>
 
-# License
+## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [MIT License Link](https://github.com/sherwyn11/Medi-Care/blob/master/LICENSE)
 
 <br></br>
-© 2020 Sherwyn D'souza
+&copy; 2020 Sherwyn D'souza
