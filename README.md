@@ -25,7 +25,7 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 
 ## System Architecture
 
-<a href="https://ibb.co/yWfcVZK"><img src="https://i.ibb.co/yWfcVZK/Sherwyn.png" alt="System Architecture" border="0"></a>
+<a href="https://ibb.co/yWfcVZK"><img src="https://i.ibb.co/r47Rvzq/Sherwyn.png" alt="System Architecture" border="0"></a><br />
 
 | Number      | Description |
 | ----------- | ----------- |
