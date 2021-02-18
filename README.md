@@ -31,7 +31,7 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 | ----------- | ----------- |
 | 1           | User scans and uploads a medical record.       |
 | 2      | The record is then encrypted from the client side and sent to the Flask Server.        |
-| 3, 4           | The Flask server sends this encrpyted file to the IPFS network for storage. Once stored, it returs back a file hash.       |
+| 3, 4           | The Flask server sends this encrypted file to the IPFS network for storage. Once stored, it returs back a file hash.       |
 | 5       | The file hash is then returned back to the client app.        |
 | 6        | The hash is then stored securely on the Ethereum Blockchain        |
 | 7          | The user can then choose to perform NER(Named-Entity-Recognition) on the data in the medical record. This is the make the user aware about the complex terms and data in the report. The record is sent to the Flask server.       |
