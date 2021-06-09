@@ -25,7 +25,7 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 
 ## System Architecture
 
-<a href="https://ibb.co/yWfcVZK"><img src="https://i.ibb.co/r47Rvzq/Sherwyn.png" alt="System Architecture" border="0"></a><br />
+<a href="https://ibb.co/mCq4TDZ"><img src="https://i.ibb.co/6RPFwn9/diagram.jpg" alt="System Architecture" border="0"></a><br />
 
 | Number      | Description |
 | ----------- | ----------- |
@@ -41,7 +41,7 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 
 ## About the Ethereum Blockchain
 
-<img src="https://miro.medium.com/max/16000/1*AReX8uZOZKpGcvuUjogh0g.png" height="210px" width="360px"/>
+<img src="https://ethereum.org/static/c3bcc8c47890ffd2a2c329972c73d0fd/31987/ethereum-logo-portrait-black-gray.png" height="210px" width="360px"/>
 
 <b>Ethereum</b> is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality.
 
