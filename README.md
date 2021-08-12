@@ -67,10 +67,16 @@ The <b>InterPlanetary File System</b> is a protocol and peer-to-peer network for
 
 ## Getting Started
 
+### Clone the repository
+```bash
+git clone https://github.com/sherwyn11/Medi-Care.git
+```
+
 ### To run React development server
 
 ```bash
 cd blockchain
+npm install
 npm start
 ```
 
@@ -82,6 +88,8 @@ python app.py
 ## Working Demonstration
 
 ![](Readme_requirements/Medi-Care.gif)
+
+(This project is still under development)
 
 ## References
 
