@@ -16,7 +16,7 @@ CORS(app)
 client = ipfshttpclient.connect('/ip4/127.0.0.1/tcp/5001/http')
 
 def query_raw(text, url='https://bern.korea.ac.kr/plain'):
-    return requests.post(url, data={'sample_text': text}).json()
+    return requests.post(url, data={'sample_text': text}, verify=False).json()
 
 @app.route('/')
 @app.route('/home', methods=['GET', 'POST'])
