@@ -12,7 +12,7 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 <ol>
 <li> Upload a document to the blockchain. The document is added as a node in IPFS which returns a hash. The hash is then stored on the blockchain</li>
 <li> View the uploaded documents.</li>
-<li> Analyse the uploaded documents. The text from the document is extracted and <b>NER</b>(Named Entity Recognition) is performed on the text using <b>BNER</b>(Biomedical Named Entity recognition and multi-type Normalization.)</li>
+<li> Analyse the uploaded documents. The text from the document is extracted and <b>NER</b>(Named Entity Recognition) is performed on the text using <b>BERN</b>(Biomedical Entity Recognition and multi-type Normalization tool.)</li>
 <li> Analyse their reports to find keywords related to <b>Drugs</b> or <b>Diseases</b>.</li>
 <li> Add a trusted doctor to view their medical documents.</li>
 </ol>
@@ -25,7 +25,7 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 
 ## System Architecture
 
-<a href="https://ibb.co/mCq4TDZ"><img src="https://i.ibb.co/6RPFwn9/diagram.jpg" alt="System Architecture" border="0"></a><br />
+<img src="https://i.ibb.co/1rnDfbN/Sherwyn.png" alt="System Architecture" border="0"><br />
 
 | Number      | Description |
 | ----------- | ----------- |
@@ -35,13 +35,13 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 | 5       | The file hash is then returned back to the client app.        |
 | 6        | The hash is then stored securely on the Ethereum Blockchain        |
 | 7          | The user can then choose to perform NER(Named-Entity-Recognition) on the data in the medical record. This is the make the user aware about the complex terms and data in the report. The record is sent to the Flask server.       |
-| 8, 9        | The Flask server runs the BNER(Biomedical NER) model on the recieved data after performing OCR on the report to get the text from the scanned medical record PDF. The medical keywords are then passed back to the Flask server.        |
+| 8, 9        | The Flask server runs the BERN model on the recieved data after performing OCR on the report to get the text from the scanned medical record PDF. The medical keywords are then passed back to the Flask server.        |
 | 10 | The Flask server sends this data back to the client app and the client can view the keywords and click on it for more information |
 | 11           | The doctor can view the medical record(s) of <b>ONLY his/her</b> patient.      |
 
 ## About the Ethereum Blockchain
 
-<img src="https://ethereum.org/static/c3bcc8c47890ffd2a2c329972c73d0fd/31987/ethereum-logo-portrait-black-gray.png" height="210px" width="360px"/>
+<img src="https://camo.githubusercontent.com/d33e4396449fee9f80e57435ae3e77d7d45b34b1a90b72c578c9a456685c4c8c/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763534d61425a4a2d56466e444b625562444b4a664949466867596842765648315f6544744126757371703d434155" height="260px" width="360px"/>
 
 <b>Ethereum</b> is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality.
 
