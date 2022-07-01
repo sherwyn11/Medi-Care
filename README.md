@@ -81,6 +81,8 @@ npm start
 ```
 
 ### To run Flask server
+<ul><li>First start IPFS daemon</li></ul>
+
 ```bash
 cd server
 python app.py
