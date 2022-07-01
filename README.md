@@ -6,7 +6,7 @@ A decentralized web application using ReactJS, Flask, Solidity, IPFS and the Eth
 
 <b>The app has 2 main users:</b>
 1. Patient
-2. Doctor
+2. Doctor <i>(in development)</i>
 
 <b>Patients can:</b>
 <ol>
@@ -103,5 +103,4 @@ python app.py
 
 [MIT License Link](https://github.com/sherwyn11/Medi-Care/blob/master/LICENSE)
 
-<br></br>
 &copy; 2020 Sherwyn D'souza
